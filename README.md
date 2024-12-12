@@ -1,5 +1,6 @@
 # DistilMVC
 This repo contains the code of the paper Towards Generalized Multi-stage Clustering: Multi-view Self-distillation.
+Please see https://github.com/JiataiWang/DistilMVC
 
 ## Requirements
 
